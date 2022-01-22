@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @daycat
-- 👀 I’m interested in the lightway protocol 
-- 🌱 I’m currently learning java
+傻逼猫的小号
 - 📫 How to reach me:
-      - Wechat: @day_cat
       - Telegram: @day_cat
 
 <!---
