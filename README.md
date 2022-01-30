@@ -1,6 +1,6 @@
 傻逼猫的小号
 
-[![Daycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=daycat)](https://github.com/anuraghazra/github-readme-stats)
+[![Daycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=daycat&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me:
       - Telegram: @day_cat
