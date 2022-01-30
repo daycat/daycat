@@ -1,6 +1,8 @@
-傻逼猫的小号
+Hi, I'm Daycat
 
-[![Daycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=daycat&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+I'm a SCIE student who, ergh, doesn't really like studying anything except CS
+
+[![Daycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=daycat&show_icons=true&theme=midnight-purple&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me:
       - Telegram: @day_cat
