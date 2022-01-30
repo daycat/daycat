@@ -2,7 +2,7 @@ Hi, I'm Daycat
 
 I'm a SCIE student who, ergh, doesn't really like studying anything except CS
 
-[![Daycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=daycat&show_icons=true&theme=midnight-purple&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Daycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=daycat&show_icons=true&theme=midnight-purple&hide_border=true&&count_private=true&include_all_commits=true)
 
 - 📫 How to reach me:
       - Telegram: @day_cat
