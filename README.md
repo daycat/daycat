@@ -4,7 +4,7 @@ I'm a SCIE student who, ergh, doesn't really like studying anything except CS
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=daycat&show_icons=true&theme=midnight-purple&hide_border=true&&count_private=true&include_all_commits=true" width="500" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daycat&layout=compact" width="500" height="200"> \
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daycat&layout=compact" width="500" height="200">
 
 📫 How to reach me:
       - Telegram: @day_cat
