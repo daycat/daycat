@@ -4,7 +4,7 @@ Even when close friend are far away in a distant land, we'll still be close in s
 联系方式：       
 Contact me:
 
-[![Email][https://img.shields.io/badge/Email-admin%40daycat.space-blue.svg]][mailto:admin@daycat.space]
+[![Email](https://img.shields.io/badge/Email-admin%40daycat.space-blue.svg)](mailto:admin@daycat.space)
 
 请确认PGP指纹：     
 Please check my PGP fingerprint to confirm my identity in messages:     
