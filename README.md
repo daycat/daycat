@@ -7,6 +7,6 @@ Please check my PGP fingerprint to confirm my identity in messages:
 ```
 
 Contact me:     
-[![Email](https://img.shields.io/badge/Email-admin%40daycat.space-blue.svg?style=for-the-badge)](mailto:admin@daycat.space)     
-[![Telegram](https://img.shields.io/badge/Telegram-daycat-blue.svg?style=for-the-badge)](https://t.me/day_cat)
+[![Email](https://img.shields.io/badge/Email-slower-blue.svg?style=for-the-badge)](mailto:admin@daycat.space)     
+[![Telegram](https://img.shields.io/badge/Telegram-faster-blue.svg?style=for-the-badge)](https://t.me/day_cat)         
 Do not trust **ANY** other forms of communications. Ask me to verify using a signed PGP message first. 
